@@ -2,13 +2,12 @@
 ## Exercise 1
 ### Answer
 ```c
-short myNum = 1;
-short myNum1 = 10001;
-
+int myNum = 1;
+int myNum1 = 10001;
 int myNum2 = 100000001;
 
-long long myNum3 = 10000000000001;
-long long myNum4 = -10000000000001;
+long myNum3 = 10000000000001;
+long myNum4 = -10000000000001;
 
 double myDoubleNum = 1.001;
 double myDoubleNum1 = 100000000000001.100001;
